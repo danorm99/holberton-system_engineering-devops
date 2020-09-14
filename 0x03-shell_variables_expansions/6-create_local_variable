@@ -1,2 +1,2 @@
 #!/bin/bash
-set BETTY=HOLBERTON
+set local BETTY=HOLBERTON
